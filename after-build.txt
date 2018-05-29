@@ -1,0 +1,1 @@
+As a workaround, just put module.exports = {} in fontsettings.js. Upon next restart it will be filled out with some generated content.
